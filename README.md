@@ -27,8 +27,8 @@
 
   <p align="center">
 
-    <a target="_blank" href="https://www.linkedin.com/in/himangi-rinwa-ba356a200/" alt="Linkedin"><img src="https://github.com/rohitsingh0210/rohitsingh0210/blob/main/images/linkedin-fill.svg"></a>
-    <a target="_blank" href="mailto:rohitjsingh974.com" alt="Linkedin"><img src="https://github.com/rohitsingh0210/rohitsingh0210/blob/main/images/mail-fill.svg"></a>
+    <a target="_blank" href="https://www.linkedin.com/in/himangi-rinwa-ba356a200/" alt="Linkedin"><img src="https://github.com/himangirinwa/himangirinwa/blob/main/images/linkedin-fill.svg"></a>
+    <a target="_blank" href="mailto:hemangirinwa.com" alt="Linkedin"><img src="https://github.com/himangirinwa/himangirinwa/blob/main/images/mail-fill.svg"></a>
     <a target="_blank" href="https://instagram.com/hemangi._rinwa" alt="Contact me"><img src="https://github.com/himangirinwa/himangirinwa/blob/main/images/instagram-fill.svg">   <a href="https://www.linkedin.com/in/himangirinwa/" target="_blank" alt="Linkedin"><img src="https://github.com/himangirinwa/himangirinwa/blob/main/images/linkedin-fill.svg"></a>
     <a href="mailto:hemangirinwa.com" target="_blank" alt="Linkedin"><img src="https://github.com/himangirinwa/himangirinwa/blob/main/images/mail-fill.svg"></a>
     <a href="https://instagram.com/himangirinwa" target="_blank" alt="Contact me"><img src="https://github.com/himangirinwa/himangirinwa/blob/main/images/instagram-fill.svg"></a>
