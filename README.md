@@ -1,7 +1,4 @@
-
-### Hi there 👋 
-###**I AM _HIMANGI RINWA!_ **
-
+<img align="center" src="https://github.com/himangirinwa/himangirinwa/blob/main/images/top.png" alt="bg_image">
 
 ### I like learning new technologies and experimenting with them.✨
 - #### 🔭 I’m a Pre-Final year CSE Undergrad at VIT Pune.
