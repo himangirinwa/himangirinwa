@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning web development and mastering Data Structures and Algorithms.
 - 👯 I’m looking to collaborate with you on interesting projects.
 - 💬 Ask me about Java and SQL.
-- 📫 You can reach me at [Email](https://mailto:hemangirinwa@gmail.com) or  [Linkedin](https://www.linkedin.com/in/himangi-rinwa-ba356a200/) 
+- 📫 You can reach me at [Email](https://mailto:hemangirinwa@gmail.com) or  [Linkedin](https://www.linkedin.com/in/himangi-rinwa/) 
 
 <hr>
 
@@ -14,7 +14,7 @@
  <br>
 
  <p align="center">
-    <a href="https://www.linkedin.com/in/himangi-rinwa-ba356a200/" target="_blank" alt="Linkedin"><img src="https://github.com/himangirinwa/himangirinwa/blob/main/images/linkedin-fill.svg"></a>
+    <a href="https://www.linkedin.com/in/himangi-rinwa/" target="_blank" alt="Linkedin"><img src="https://github.com/himangirinwa/himangirinwa/blob/main/images/linkedin-fill.svg"></a>
     <a href="mailto:hemangirinwa@gmail.com" target="_blank" alt="Linkedin"><img src="https://github.com/himangirinwa/himangirinwa/blob/main/images/mail-fill.svg"></a>
     <a href="https://instagram.com/hemangi._rinwa" target="_blank" alt="Contact me"><img src="https://github.com/himangirinwa/himangirinwa/blob/main/images/instagram-fill.svg"></a>   
     
