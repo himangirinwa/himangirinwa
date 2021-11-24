@@ -1,6 +1,6 @@
 <img align="center" src="https://github.com/himangirinwa/himangirinwa/blob/main/images/top.png" alt="bg_image">
 
-### I like learning new technologies and experimenting with them.✨
+### I am fascinated with learning new technologies and experimenting with them.✨
 - #### 🔭 I’m a Pre-Final year CSE Undergrad at VIT Pune.
 - 🌱 I’m currently learning web development and mastering Data Structures and Algorithms.
 - 👯 I’m looking to collaborate with you on interesting projects.
